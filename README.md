@@ -4,6 +4,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Tech Stack" width="500">
 </div>
 
+![GitHub Snake Light](https://github.com/vrlh/vrlh/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/vrlh/vrlh/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
+
 ## 🚀 About Me
 
 I'm a passionate developer with a love for [Your Interests]. When I'm not coding, you can find me [Your Hobbies].
