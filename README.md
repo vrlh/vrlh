@@ -40,7 +40,6 @@ I'm a passionate developer with a love for [Your Interests]. When I'm not coding
 ![GitHub Snake Light](https://github.com/vrlh/vrlh/blob/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/vrlh/vrlh/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
-
 ## 🤝 Connect with Me
 
 <div align="center">
@@ -53,10 +52,6 @@ I'm a passionate developer with a love for [Your Interests]. When I'm not coding
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet" alt="Profile Views" />
-</div>
 
 <div align="center">
   Thanks for visiting my profile! Have a great day! 😊
