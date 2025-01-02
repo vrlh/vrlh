@@ -31,11 +31,11 @@ I'm a passionate developer with a love for [Your Interests]. When I'm not coding
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&count_private=true)" alt="Your GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark" alt="Your GitHub Streak" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)" alt="Your GitHub Streak" />
 </div>
 
 ## 🤝 Connect with Me
