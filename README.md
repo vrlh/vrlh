@@ -34,6 +34,13 @@ I'm a passionate developer with a love for [Your Interests]. When I'm not coding
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrlh&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vrlh/vrlh/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vrlh/vrlh/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/vrlh/vrlh/blob/output/github-snake.svg" />
+</picture>
+
+
 ## 🤝 Connect with Me
 
 <div align="center">
