@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer with a love for [Your Interests]. When I'm not coding, you can find me [Your Hobbies].
+I'm a passionate developer! When I'm not coding, you can find me mountain biking and hiking.
 
 - 🔭 I'm interested in machine learning, natural language processing, and full-stack web-development
 - 💼 I'm a Data & Software consultant at Berkeley's Premiere Tech Consulting Club: Valley Consulting Group
