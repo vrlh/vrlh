@@ -1,12 +1,5 @@
 # Hello! 👋 I'm Viplove
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Tech Stack" width="500">
-</div>
-
-
-
-
 ## 🚀 About Me
 
 I'm a passionate developer with a love for [Your Interests]. When I'm not coding, you can find me [Your Hobbies].
