@@ -24,7 +24,7 @@ I'm a passionate developer! When I'm not coding, you can find me mountain biking
 </div>
 
 
-## 📊 GitHub Stats (Last 12 Months)
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrlh&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
