@@ -8,7 +8,7 @@ I'm a passionate developer! When I'm not coding, you can find me mountain biking
 - 💼 I'm a Data & Software consultant at Berkeley's Premiere Tech Consulting Club: Valley Consulting Group
 - 🏎️ Software Engineer at Berkeley's FSAE Electric Team
 - ⚡ Member of Berkeley's EECS Honor Society (HKN)
-- 🏢 Currently Data Science intern at AMD
+- 🏢 Currently doing research at BAIR (Berkeley Artificial Intelligence Research) and SAIL (Stanford Artificial Intelligence Lab)
 
 ## 🛠️ Skills
 
