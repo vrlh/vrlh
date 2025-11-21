@@ -9,6 +9,7 @@ I'm a passionate developer! When I'm not coding, you can find me mountain biking
 - 🏎️ Software Engineer at Berkeley's FSAE Electric Team
 - ⚡ Member of Berkeley's EECS Honor Society (HKN)
 - 🏢 Currently doing research at BAIR (Berkeley Artificial Intelligence Research) and SAIL (Stanford Artificial Intelligence Lab)
+- 🤖 Currently also a TPM & AI/LLM Software Engineer at Nue.io (https://www.nue.io/), a Series A startup that has recently signed Cursor, Anthropic, and OpenAI as clients
 
 ## 🛠️ Skills
 
